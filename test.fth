@@ -1,0 +1,2 @@
+: test ." Hello word " ;
+test
